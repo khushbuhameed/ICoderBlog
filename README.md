@@ -26,5 +26,5 @@ Please adhere to this project's `code of conduct`.
 ## Tech Stack
 
 
-![logo](https://e7.pngegg.com/pngimages/251/335/png-clipart-website-development-html-cascading-style-sheets-javascript-css3-html-logo-web-design-text-thumbnail.png)
+###HTML ,###CSS, ###JAVASRCIPT AND BOOTSRAP
 
