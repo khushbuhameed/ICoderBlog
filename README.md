@@ -4,7 +4,7 @@ This is ICoderBlog i made this project with the help of Bootstrap framework In t
 
 
 
-## Authors
+## Author
 
 - [@khushbuhameed](https://github.com/khushbuhameed)
 
